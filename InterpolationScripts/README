@@ -1,1 +1,1 @@
-.csh and python scripts used to interpolate from FVCOM output (in .nc format) onto the grid provided by fv3mask_C3338.nc.
+.csh and python scripts used to interpolate from FVCOM output (in .nc format) onto the grid provided by fv3mask_C3338.nc. remap_glcfs_fv3_ver6_noDir.csh preprocesses the FVCOM data then runs interp_skintemp_5lakes_ice_fv3grid_ver6.py.
